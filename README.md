@@ -1,5 +1,5 @@
 # loruki-website
-Cloud hosting website
+Cloud hosting website build in HTML, CSS Flexbox & Grid
 
 ## acknowledgment
 
