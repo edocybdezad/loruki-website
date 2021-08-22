@@ -1,5 +1,5 @@
 # loruki-website
-Cloud hosting website build in HTML, CSS Flexbox & Grid
+Cloud hosting website build in HTML, CSS Flexbox & Grid plus deploy on Netlify https://dazzling-hamilton-d3ba2c.netlify.app/
 
 ## acknowledgment
 
